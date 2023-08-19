@@ -1,0 +1,24 @@
+﻿  Project1.cpp
+C:\Users\Baeinhwan\Desktop\openCV\openCV\Project1.cpp(49,18): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Baeinhwan\Desktop\openCV\openCV\Project1.cpp(55,24): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Baeinhwan\Desktop\openCV\openCV\Project1.cpp(107,52): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Baeinhwan\Desktop\openCV\openCV\Project1.cpp(107,49): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Baeinhwan\Desktop\openCV\openCV\Project1.cpp(132,53): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\Baeinhwan\Desktop\openCV\openCV\Project1.cpp(132,34): warning C4244: '인수': 'float'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+  openCV.vcxproj -> C:\Users\Baeinhwan\Desktop\openCV\x64\Debug\openCV.exe
